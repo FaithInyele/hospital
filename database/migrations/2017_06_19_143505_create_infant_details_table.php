@@ -23,11 +23,12 @@ class CreateInfantDetailsTable extends Migration
             $table->date('date_first_seen');
             $table->double('weight_in_kgs');
             $table->double('length_in_cm');
-            $table->string('country');
             $table->string('county');
             $table->string('sub_county');
             $table->string('town');
             $table->string('estate');
+            $table->string('place_of_birth');
+            $table->string('special_needs');
             $table->timestamps();
         });
     }

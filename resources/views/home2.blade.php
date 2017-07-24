@@ -13,7 +13,7 @@
 
                             <i class="fa fa-wheelchair fa-4x"> </i><br>
 
-                            <a href="details.php">Add New Infant</a>
+                            <a href="/hospital/public/infantdetails">Add New Infant</a>
                         </li>
 
                     </ul>
@@ -25,7 +25,7 @@
 
                             <i class="fa fa-book fa-4x"> </i><br>
 
-                            <a href="">Infant Master List</a>
+                            <a href="/hospital/public/infantmaster">Infant Master List</a>
                         </li>
 
                     </ul>
@@ -37,7 +37,7 @@
 
                             <i class="fa fa-user fa-4x"> </i><br>
 
-                            <a href="">User Profile</a>
+                            <a href="/hospital/public/edit_user">User Profile</a>
                         </li>
 
                     </ul>
